@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Jayavishvaa_Website/static/css/main.f705144f.chunk.css",
+    "main.css": "/Jayavishvaa_Website/static/css/main.de68f8f0.chunk.css",
     "main.js": "/Jayavishvaa_Website/static/js/main.37c0b982.chunk.js",
     "main.js.map": "/Jayavishvaa_Website/static/js/main.37c0b982.chunk.js.map",
     "runtime-main.js": "/Jayavishvaa_Website/static/js/runtime-main.31b46b24.js",
@@ -8,7 +8,7 @@
     "static/js/2.9af5fd2b.chunk.js": "/Jayavishvaa_Website/static/js/2.9af5fd2b.chunk.js",
     "static/js/2.9af5fd2b.chunk.js.map": "/Jayavishvaa_Website/static/js/2.9af5fd2b.chunk.js.map",
     "index.html": "/Jayavishvaa_Website/index.html",
-    "static/css/main.f705144f.chunk.css.map": "/Jayavishvaa_Website/static/css/main.f705144f.chunk.css.map",
+    "static/css/main.de68f8f0.chunk.css.map": "/Jayavishvaa_Website/static/css/main.de68f8f0.chunk.css.map",
     "static/js/2.9af5fd2b.chunk.js.LICENSE.txt": "/Jayavishvaa_Website/static/js/2.9af5fd2b.chunk.js.LICENSE.txt",
     "static/media/Contact.5a540537.png": "/Jayavishvaa_Website/static/media/Contact.5a540537.png",
     "static/media/Fleet1.dcac2bcf.png": "/Jayavishvaa_Website/static/media/Fleet1.dcac2bcf.png",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.31b46b24.js",
     "static/js/2.9af5fd2b.chunk.js",
-    "static/css/main.f705144f.chunk.css",
+    "static/css/main.de68f8f0.chunk.css",
     "static/js/main.37c0b982.chunk.js"
   ]
 }
