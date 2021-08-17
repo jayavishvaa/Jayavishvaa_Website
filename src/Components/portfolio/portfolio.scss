@@ -33,15 +33,16 @@
         align-items: center;
         justify-content: center;
         flex-wrap: wrap;
-        margin-top: 5%;
+        // margin-top: 5%;
 
         @include mobile{
             width: 100%;
+            // height: 150px;
         }
 
         .item{
             width: 240px;
-            height: 240px;
+            height: 200px;
             border-radius: 20px;
             border: 1px solid lightgray;
             margin: 10px 20px;
@@ -57,11 +58,15 @@
 
             @include mobile{
                 width: 130px;
-                height: 100px;
+                height: 150px;
                 display: flex;
                 align-items: center;
                 justify-content: center;
                 text-align: center;
+                background-color:whitesmoke;
+                color: whitesmoke;
+
+
             }
 
             h3{
