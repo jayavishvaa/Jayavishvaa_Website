@@ -39,8 +39,8 @@
         }
 
         .item{
-            width: 220px;
-            height: 200px;
+            width: 240px;
+            height: 240px;
             border-radius: 20px;
             border: 1px solid lightgray;
             margin: 10px 20px;
@@ -51,6 +51,7 @@
             position: relative;
             transition: all .5s ease;
             cursor: pointer;
+            background-color:whitesmoke;
 
             @include mobile{
                 width: 130px;

@@ -2,6 +2,15 @@ import './works.scss';
 import ArrowBackIosIcon from '@material-ui/icons/ArrowBackIos';
 import ArrowForwardIosIcon from '@material-ui/icons/ArrowForwardIos';
 import { useState } from 'react';
+// import DirectionsCarIcon from '@material-ui/icons/DirectionsCar';
+
+import Fleet from '../../assets/Fleet/Fleet2.jpg';
+import WhenBus from '../../assets/WhenBus/Whenbus1.jpg';
+import OSA from '../../assets/OSA/OSA5.jpg';
+
+import FleetIcon from '../../assets/WorkIcons/Fleet_icon.png';
+import WhenBusIcon from '../../assets/WorkIcons/WhenIcon.png';
+import OSAIcon from '../../assets/WorkIcons/OSAIcon.png';
 
 export default function Works() {
 
@@ -11,24 +20,27 @@ export default function Works() {
 
         {
             id: 1,
-            icon: "./assets/MyPhoto.jpeg",
-            title: "Web Design",
-            describ: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.alias eaque facere asperiores ea incidunt deleniti obcaecati",
-            img: "./assets/MyPhoto.jpeg"
+            icon: FleetIcon,
+            title: "Driver assistance application",
+            describ: "This software is aimed to provide optimal fleet management and routing for the IIT Madras logistics domain",
+            img: Fleet,
+            github: 'https://github.com/jayavishvaa/Fleet_And_Vehicle_Tracking'
         },
         {
             id: 2,
-            icon: "./assets/MyPhoto.jpeg",
-            title: "Mobile Design",
-            describ: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.alias eaque facere asperiores ea incidunt deleniti obcaecati!",
-            img: "./assets/MyPhoto.jpeg"
+            icon: WhenBusIcon,
+            title: "Crowdsourced public transportation App",
+            describ: "This software is used for providing real-time tracking information of public transportation vehicles by utilizing crowdsourced data from the users",
+            img: WhenBus,
+            github: 'https://github.com/jayavishvaa/WhenBus'
         },
         {
             id: 3,
-            icon: "./assets/MyPhoto.jpeg",
-            title: "Branding",
-            describ: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.alias eaque facere asperiores ea incidunt deleniti obcaecati!",
-            img: "./assets/MyPhoto.jpeg"
+            icon: OSAIcon,
+            title: "Shopping App",
+            describ: "This software is aimed to provide a shopping platform for both the seller and customer where mainly targetting the supermarkets",
+            img: OSA,
+            github: 'https://github.com/jayavishvaa/OSA-Shopping-App'
         }
     ]
 
@@ -53,11 +65,12 @@ export default function Works() {
                                     <p>
                                         {d.describ}
                                     </p>
-                                    <span>Projects</span>
+                                    <a href={d.github}><span>Projects</span></a>
+                                    {/* <span>Projects</span> */}
                                 </div>
                             </div>
                             <div className="right">
-                                <img src="assets/MyPhoto.jpeg" alt=""/>
+                                <img src={d.img} alt=""/>
                             </div>
                         </div>
                     </div>

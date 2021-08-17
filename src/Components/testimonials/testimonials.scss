@@ -43,8 +43,9 @@
         transition: all 1s ease;
 
         @include mobile{
-            height: 180px;
+            height: 150px;
             margin: 10px 0;
+            padding:10px;
          }
 
         &.featured{
@@ -81,8 +82,9 @@
                      margin: 0 30px;
 
                      @include mobile{
-                        height: 30px;
-                        width: 30px;
+                        // height: 25px;
+                        // width: 25px;
+                        display: none;
                      }
                  }
             }
@@ -91,10 +93,12 @@
             padding: 10px;
             border-radius: 10px;
             background-color: rgb(250, 244, 245);
+            font-size: 14px;
 
             @include mobile{
-                font-size: 12px;
+                font-size: 10px;
                 padding: 5px;
+                margin: 5px 0;
              }
         }
         .Bottom{
@@ -107,14 +111,14 @@
                 margin-bottom: 5px;
 
                 @include mobile{
-                    font-size: 14px;
+                    font-size: 12px;
                  }
             }
             h4{
                 color: grey;
 
                 @include mobile{
-                    font-size: 13px;
+                    font-size: 11px;
                  }
             }
         }

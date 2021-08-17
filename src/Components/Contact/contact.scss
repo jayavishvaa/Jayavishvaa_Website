@@ -25,8 +25,51 @@
          flex-direction: column;
 
          h2{
-             font-size: 30px;
+             font-size: 40px;
          }
+
+         .email{
+             display: flex;
+             flex-direction: row;
+             margin: 10px;
+
+             h4{
+                 margin: 0 5px;
+             }
+         }
+
+         .Phoneno{
+            display: flex;
+            flex-direction: row;
+            margin: 10px;
+
+            h4{
+                margin: 0 5px;
+            }
+
+        }
+
+        .socialIcon{
+
+            display: flex;
+            align-items: center;
+
+            a{
+                .Linkedin{
+                    width: 40px;
+                    height: 40px;
+                    border-radius: 50%;
+                }
+            }
+
+            a{
+                .Github{
+                    width: 50px;
+                    height: 50px;
+                }
+            }
+  
+        }
 
          form{
              width: 70%;

@@ -32,9 +32,10 @@
          transition: all 1s ease-out;
 
          @include mobile{
-             height: 100vh;
+             height: 90vh;
              justify-content: center;
              flex-direction: column;
+             overflow: hidden;
          }
 
          .container{
@@ -60,7 +61,7 @@
 
                  .left{
                      flex: 4;
-                     height: 80%;
+                     height: 90%;
                      display: flex;
                      align-items: center;
                      justify-content: center;
@@ -93,7 +94,8 @@
                             }
 
                             img{
-                                width: 20px;
+                                width: 30px;
+                                transform: rotate(-20deg);
 
                                 @include mobile{
                                     width: 15px;
@@ -114,11 +116,13 @@
                                 display: none;
                             } 
                         }
-                        span{
-                            font-size: 12px;
-                            font-weight: 600;
-                            text-decoration: underline;
-                            cursor: pointer;
+                        a{
+                            span{
+                                font-size: 12px;
+                                font-weight: 600;
+                                text-decoration: underline;
+                                cursor: pointer;
+                            }
                         }
                      }
 
@@ -133,8 +137,8 @@
                      overflow: hidden;
 
                      img{
-                         width: 400px;
-                         transform: rotate(-10deg);
+                         width: 350px;
+                         transform: rotate(-20deg);
                      }
                  }
              }
