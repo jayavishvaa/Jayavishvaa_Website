@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Jayavishvaa_Website/static/css/main.b3830d45.chunk.css",
+    "main.js": "/Jayavishvaa_Website/static/js/main.ff1f8ab9.chunk.js",
+    "main.js.map": "/Jayavishvaa_Website/static/js/main.ff1f8ab9.chunk.js.map",
+    "runtime-main.js": "/Jayavishvaa_Website/static/js/runtime-main.31b46b24.js",
+    "runtime-main.js.map": "/Jayavishvaa_Website/static/js/runtime-main.31b46b24.js.map",
+    "static/js/2.9af5fd2b.chunk.js": "/Jayavishvaa_Website/static/js/2.9af5fd2b.chunk.js",
+    "static/js/2.9af5fd2b.chunk.js.map": "/Jayavishvaa_Website/static/js/2.9af5fd2b.chunk.js.map",
+    "index.html": "/Jayavishvaa_Website/index.html",
+    "static/css/main.b3830d45.chunk.css.map": "/Jayavishvaa_Website/static/css/main.b3830d45.chunk.css.map",
+    "static/js/2.9af5fd2b.chunk.js.LICENSE.txt": "/Jayavishvaa_Website/static/js/2.9af5fd2b.chunk.js.LICENSE.txt",
+    "static/media/Fleet_Order.c16d902c.png": "/Jayavishvaa_Website/static/media/Fleet_Order.c16d902c.png",
+    "static/media/Fleet_home.f8ee506e.png": "/Jayavishvaa_Website/static/media/Fleet_home.f8ee506e.png",
+    "static/media/Fleet_login.dcac2bcf.png": "/Jayavishvaa_Website/static/media/Fleet_login.dcac2bcf.png",
+    "static/media/OSA.a00108ef.jpeg": "/Jayavishvaa_Website/static/media/OSA.a00108ef.jpeg",
+    "static/media/WhenBus.b7266562.png": "/Jayavishvaa_Website/static/media/WhenBus.b7266562.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31b46b24.js",
+    "static/js/2.9af5fd2b.chunk.js",
+    "static/css/main.b3830d45.chunk.css",
+    "static/js/main.ff1f8ab9.chunk.js"
+  ]
+}
