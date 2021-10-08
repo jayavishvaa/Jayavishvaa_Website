@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Jayavishvaa_Website/static/css/main.bde526a4.chunk.css",
-    "main.js": "/Jayavishvaa_Website/static/js/main.b5c2c84d.chunk.js",
-    "main.js.map": "/Jayavishvaa_Website/static/js/main.b5c2c84d.chunk.js.map",
+    "main.css": "/Jayavishvaa_Website/static/css/main.7f3985c9.chunk.css",
+    "main.js": "/Jayavishvaa_Website/static/js/main.a3253aa5.chunk.js",
+    "main.js.map": "/Jayavishvaa_Website/static/js/main.a3253aa5.chunk.js.map",
     "runtime-main.js": "/Jayavishvaa_Website/static/js/runtime-main.31b46b24.js",
     "runtime-main.js.map": "/Jayavishvaa_Website/static/js/runtime-main.31b46b24.js.map",
     "static/js/2.9af5fd2b.chunk.js": "/Jayavishvaa_Website/static/js/2.9af5fd2b.chunk.js",
     "static/js/2.9af5fd2b.chunk.js.map": "/Jayavishvaa_Website/static/js/2.9af5fd2b.chunk.js.map",
     "index.html": "/Jayavishvaa_Website/index.html",
-    "static/css/main.bde526a4.chunk.css.map": "/Jayavishvaa_Website/static/css/main.bde526a4.chunk.css.map",
+    "static/css/main.7f3985c9.chunk.css.map": "/Jayavishvaa_Website/static/css/main.7f3985c9.chunk.css.map",
     "static/js/2.9af5fd2b.chunk.js.LICENSE.txt": "/Jayavishvaa_Website/static/js/2.9af5fd2b.chunk.js.LICENSE.txt",
     "static/media/Contact.5a540537.png": "/Jayavishvaa_Website/static/media/Contact.5a540537.png",
     "static/media/Fleet1.dcac2bcf.png": "/Jayavishvaa_Website/static/media/Fleet1.dcac2bcf.png",
@@ -19,7 +19,7 @@
     "static/media/Fleet6.c16d902c.png": "/Jayavishvaa_Website/static/media/Fleet6.c16d902c.png",
     "static/media/Fleet_icon.73f7d59f.png": "/Jayavishvaa_Website/static/media/Fleet_icon.73f7d59f.png",
     "static/media/IITLogo.58b30ecd.png": "/Jayavishvaa_Website/static/media/IITLogo.58b30ecd.png",
-    "static/media/Myphotoweb.4f3d8b40.jpg": "/Jayavishvaa_Website/static/media/Myphotoweb.4f3d8b40.jpg",
+    "static/media/IntroPhoto.5813290a.jpg": "/Jayavishvaa_Website/static/media/IntroPhoto.5813290a.jpg",
     "static/media/OSA1.3091e855.jpg": "/Jayavishvaa_Website/static/media/OSA1.3091e855.jpg",
     "static/media/OSA2.712a17ba.jpg": "/Jayavishvaa_Website/static/media/OSA2.712a17ba.jpg",
     "static/media/OSA3.6969db6a.jpg": "/Jayavishvaa_Website/static/media/OSA3.6969db6a.jpg",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.31b46b24.js",
     "static/js/2.9af5fd2b.chunk.js",
-    "static/css/main.bde526a4.chunk.css",
-    "static/js/main.b5c2c84d.chunk.js"
+    "static/css/main.7f3985c9.chunk.css",
+    "static/js/main.a3253aa5.chunk.js"
   ]
 }
