@@ -32,7 +32,7 @@ export default function Contact() {
                 </div>
                 <div className="Phoneno">
                     <h4>Phone No:</h4>
-                    <span>+91 6379024835</span>
+                    <span>+44 7436213036</span>
                 </div>
                 <div className="socialIcon">
                     <a href="https://www.linkedin.com/in/jayavishvaa-jayabal-b342b51a3">
